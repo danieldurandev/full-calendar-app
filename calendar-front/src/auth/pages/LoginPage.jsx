@@ -4,8 +4,8 @@ import "./LoginPage.css";
 import { useEffect } from "react";
 
 const loginFormFields = {
-  loginEmail: "",
-  loginPassword: "",
+  loginEmail: "invitado@invitado.com",
+  loginPassword: "invitado",
 };
 
 const registerFormFields = {
